@@ -68,6 +68,3 @@ pip install pandas numpy matplotlib seaborn scikit-learn kagglehub
 2. Install the required libraries
 3. Open `K-Means_Clustering.ipynb` in Jupyter Notebook or VS Code
 4. Run all cells from top to bottom
-
-## Author
-Student Assignment — Machine Learning Course 2026
